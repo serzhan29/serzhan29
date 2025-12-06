@@ -20,7 +20,6 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://stats-phi-smoky.vercel.app/api?username=serzhan29&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=serzhan29&theme=dark" />
 </p>
 
