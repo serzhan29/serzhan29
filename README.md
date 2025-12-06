@@ -19,6 +19,11 @@
 ---
 
 ### 📊 GitHub Stats  
+
+<!-- Красивый A++ бейдж (визуальный) -->
+![GitHub A++](https://img.shields.io/badge/GitHub%20Stats-A%2B%2B-22c55e?style=for-the-badge&logo=github)
+
+<!-- Живая streak-карта, которая у тебя уже работает -->
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=serzhan29&theme=dark" />
 </p>
