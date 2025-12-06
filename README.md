@@ -29,13 +29,17 @@
 <p align="center">
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=serzhan29&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"
-  />
-  <img
-    height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=serzhan29&theme=dark"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=serzhan29&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight"
   />
 </p>
+### 📚 Top Languages
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=serzhan29&layout=compact&langs_count=8&theme=tokyonight"
+  />
+</p>
+
 
 
 ---
