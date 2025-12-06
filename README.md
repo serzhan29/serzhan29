@@ -26,9 +26,6 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=serzhan29&theme=dark" />
 </p>
 
-<!--
-Если github-readme-stats начнёт нормально работать, убери этот комментарий (<!-- -->)
-и эти карты появятся.
 
 ### 📊 GitHub Stats (dynamic)
 <p align="center">
