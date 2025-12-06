@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Serzhan 👋</h1>
-<h3 align="center">Backend Developer | Python / Django</h3>
+<h3 align="center">Backend Developer | Python / Django / FastAPI</h3>
 
 ---
 
@@ -12,8 +12,25 @@
 ---
 
 ### 🛠 Tech Stack  
+
+#### 🧩 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,linux,postgresql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
+</p>
+
+#### 🗄 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" />
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" />
+</p>
+
+#### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm&theme=light" />
 </p>
 
 ---
