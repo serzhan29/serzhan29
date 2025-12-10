@@ -35,13 +35,10 @@
 ---
 
 ### 📊 GitHub Stats  
-
 ![GitHub A++](https://img.shields.io/badge/GitHub%20Stats-A%2B%2B-22c55e?style=for-the-badge&logo=github)
-
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=serzhan29&theme=dark" />
 </p>
-
 
 ### 📊 GitHub Stats (dynamic)
 <p align="center">
@@ -58,8 +55,6 @@
     src="https://github-readme-stats-serzhan29.vercel.app/api/top-langs/?username=serzhan29&layout=compact&langs_count=8&theme=tokyonight"
   />
 </p>
-
-
 ---
 
 ### 📫 Contacts  
