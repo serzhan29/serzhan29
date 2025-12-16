@@ -51,7 +51,8 @@
 ### 📚 Top Languages
 <p align="center">
   <img height="160"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=serzhan29&layout=compact&langs_count=8&theme=tokyonight" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=serzhan29&layout=compact&langs_count=8&theme=tokyonight&hide=html,css" />
+
 
 </p>
 ---
