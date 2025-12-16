@@ -1,12 +1,12 @@
-<h1 align="center">Привет, я Serzhan 👋</h1>
+<h1 align="center">Hi, я Serzhan 👋</h1>
 <h3 align="center">Backend Developer | Python / Django / FastAPI</h3>
 
 ---
 
 ### 💡 About Me  
-- 🧑‍💻 Разрабатываю веб-приложения и сложные backend-системы  
-- 🧠 Изучаю архитектуру, чистый код и современные подходы  
-- 🚀 Делаю pet-проекты и постоянно расту как разработчик  
+- 🧑‍💻 I build web applications and robust backend systems  
+- 🧠 I focus on architecture, clean code, and modern development practices  
+- 🚀 I work on pet projects and continuously improve as a developer  
 
 ---
 
