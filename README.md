@@ -37,23 +37,22 @@
 ### 📊 GitHub Stats  
 ![GitHub A++](https://img.shields.io/badge/GitHub%20Stats-A%2B%2B-22c55e?style=for-the-badge&logo=github)
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=serzhan29&theme=dark" />
+  <img height="160"
+     src="https://github-readme-stats.vercel.app/api?username=serzhan29&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
 </p>
 
 ### 📊 GitHub Stats (dynamic)
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-serzhan29.vercel.app/api?username=serzhan29&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight"
-  />
+  <img height="160"
+     src="https://streak-stats.demolab.com?user=serzhan29&theme=tokyonight" />
+
 </p>
 
 ### 📚 Top Languages
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-serzhan29.vercel.app/api/top-langs/?username=serzhan29&layout=compact&langs_count=8&theme=tokyonight"
-  />
+  <img height="160"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=serzhan29&layout=compact&langs_count=8&theme=tokyonight" />
+
 </p>
 ---
 
