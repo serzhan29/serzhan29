@@ -13,22 +13,22 @@
 ### 🛠 Tech Stack  
 
 #### 🧩 Backend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
 </p>
 
 #### 🗄 Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" />
 </p>
 
 #### 🎨 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" />
 </p>
 
 #### 🔧 Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm&theme=light" />
 </p>
 
@@ -42,13 +42,6 @@
 
 </p>
 
-### 📊 GitHub Stats (dynamic)
-<p align="center">
-  <img height="160"
-     src="https://streak-stats.demolab.com?user=serzhan29&theme=tokyonight" />
-
-</p>
-
 ### 📚 Top Languages
 <p align="center">
   <img height="160"
@@ -56,6 +49,7 @@
 
 
 </p>
+
 ---
 
 ### 📫 Contacts  
