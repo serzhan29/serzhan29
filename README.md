@@ -12,22 +12,26 @@
 
 ### 🛠 Tech Stack  
 
-#### 🧩 Backend
+<h4 align="center">🧩 Backend</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
 </p>
 
-#### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
+</p>
+
+<h4 align="center">🗄 Databases</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" />
 </p>
 
-#### 🎨 Frontend
+<h4 align="center">🎨 Frontend</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" />
 </p>
 
-#### 🔧 Tools
+<h4 align="center">🔧 Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm&theme=light" />
 </p>
