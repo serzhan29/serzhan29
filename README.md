@@ -17,10 +17,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
-</p>
-
 <h4 align="center">🗄 Databases</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" />
