@@ -38,7 +38,8 @@
 ![GitHub A++](https://img.shields.io/badge/GitHub%20Stats-A%2B%2B-22c55e?style=for-the-badge&logo=github)
 <p align="center">
   <img height="160"
-     src="https://github-readme-stats.vercel.app/api?username=serzhan29&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+     src="https://github-readme-stats.vercel.app/api?username=serzhan29&show_icons=true&rank_icon=github&theme=tokyonight" />
+
 </p>
 
 ### 📊 GitHub Stats (dynamic)
